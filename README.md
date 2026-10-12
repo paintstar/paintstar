@@ -1,6 +1,6 @@
 # May all the beauty be blessed
 
-<img src="https://raw.githubusercontent.com/paintstar/paintstar.github.io/master/public/images/vvn.jpg" width="45%" align="left" alt="阳光下的少女与猫" />
+<img src="./assets/IMG_2541.jpeg" width="45%" align="left" alt="蓝天下的晴空塔" />
 
 <div align="left">
 
@@ -23,4 +23,4 @@
 
 ### Visitor Count
 
-<img src="https://count.getloli.com/get/@paintstar?theme=moebooru&amp;padding=7&amp;offset=0&amp;align=top&amp;scale=1&amp;pixelated=1&amp;darkmode=auto" alt="paintstar visitor count" />
+<img src="https://moecount.lolihouse.top/get/@paintstar?theme=moebooru" alt="paintstar visitor count" />
