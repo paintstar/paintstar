@@ -1,6 +1,6 @@
 # May all the beauty be blessed
 
-<img src="./assets/IMG_2541.jpeg" width="45%" align="left" alt="蓝天下的晴空塔" />
+<img src="./assets/IMG_2541.jpeg" width="30%" align="left" alt="蓝天下的晴空塔" />
 
 <div align="left">
 
