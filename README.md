@@ -23,4 +23,4 @@
 
 ### Visitor Count
 
-<img src="https://count.getloli.com/@paintstar?theme=moebooru" alt="paintstar visitor count" />
+<img src="https://count.getloli.com/get/@paintstar?theme=moebooru&amp;padding=7&amp;offset=0&amp;align=top&amp;scale=1&amp;pixelated=1&amp;darkmode=auto" alt="paintstar visitor count" />
