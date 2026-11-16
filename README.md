@@ -23,4 +23,4 @@
 
 ### Visitor Count
 
-<img src="https://moecount.lolihouse.top/get/@paintstar?theme=moebooru" alt="paintstar visitor count" width="315" height="100" />
+<img src="https://count.samhou.moe/@paintstar-github-profile?theme=moebooru&amp;padding=7" alt="paintstar visitor count" width="315" height="100" />
